@@ -29,37 +29,37 @@ class MyHomePage extends StatelessWidget {
                 name: "iPhone",
                 description: "iPhone is the stylist phone ever",
                 price: 1000,
-                image: "iphone.png"
+                image: "iphone.jpg"
             ),
             ProductBox(
                 name: "Pixel",
                 description: "Pixel is the most featureful phone ever",
                 price: 800,
-                image: "pixel.png"
+                image: "pixel.jpg"
             ),
             ProductBox(
                 name: "Laptop",
                 description: "Laptop is most productive development tool",
                 price: 2000,
-                image: "laptop.png"
+                image: "laptop.jpg"
             ),
             ProductBox(
                 name: "Tablet",
                 description: "Tablet is the most useful device ever for meeting",
                 price: 1500,
-                image: "tablet.png"
+                image: "tablet.jpg"
             ),
             ProductBox(
                 name: "Pendrive",
                 description: "Pendrive is useful storage medium",
                 price: 100,
-                image: "pendrive.png"
+                image: "pendrive.jpg"
             ),
             ProductBox(
                 name: "Floppy Drive",
                 description: "Floppy drive is useful rescue storage medium",
                 price: 20,
-                image: "floppy.png"
+                image: "floppy.jpg"
             ),
           ],
         )
